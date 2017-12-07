@@ -93,7 +93,7 @@ if($hour >= 0 && $hour < 6) {
 </html>
  
 <?php
-
+/*
 $x = 32;
 $y = 5;
 $summ = $x + $y;
@@ -143,5 +143,8 @@ echo "<br/>";
 $str_3 = 'Lock at the sea';
 $str_3[strlen($str_3)-1] = 'e';
 echo $str_3;
-
+ 
+print 'Test';
+ */
+ 
 ?>
